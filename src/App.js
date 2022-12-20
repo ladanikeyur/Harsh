@@ -9,6 +9,12 @@ function App() {
       <MainPage />
       <br />
       <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
     </div>
   );
 }
