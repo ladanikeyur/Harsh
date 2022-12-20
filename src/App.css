@@ -1,0 +1,24 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.table_header{
+  background-color: #42bcf5;
+}
+
+.Add_employ{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.Input{
+  width: 20% !important;
+}
+
+.Drop{
+  display: flex;
+  justify-content: space-around;
+}
