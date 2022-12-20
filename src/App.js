@@ -7,6 +7,11 @@ function App() {
   return (
     <div className='container bg-warning'>
       <MainPage />
+      <MainPage />
+      <MainPage />
+      <MainPage />
+      <MainPage />
+      <MainPage />
       <br />
       <br />
       <br />
